@@ -42,8 +42,9 @@ I'm passionate about:
 
 Feel free to reach out if you want to collaborate, talk tech, or just say hi!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/](https://www.linkedin.com/in/cleiton-fraga/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/])  
 <!-- Add your LinkedIn link above -->
+https://www.linkedin.com/in/cleiton-fraga/
 
 ---
 
